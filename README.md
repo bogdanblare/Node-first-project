@@ -1,4 +1,4 @@
-# NodeJs server run locally
+# 🪇NodeJs server run locally
 
 Clone the project
 
@@ -18,6 +18,6 @@ Start the server
   npm start
 ```
 
-## Screenshots
+## 📸 Screenshots
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/Node-first-project/main/Screenshot%201.png)
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/Node-first-project/main/Screenshot%202.png)
